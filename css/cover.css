@@ -108,3 +108,11 @@ body {
 .mastfoot {
   color: rgba(255, 255, 255, .5);
 }
+
+.box {
+  background-color: rgba(0, 0, 0, 0.6) !important;
+  -webkit-backdrop-filter: blur(5px) !important;
+  backdrop-filter: blur(5px) !important;
+  padding: 10px 10px 10px 10px;
+  border-radius: 10px;
+}
